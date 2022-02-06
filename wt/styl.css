@@ -1,0 +1,82 @@
+body
+{
+    width: 100%;
+    height: 100%;
+    font-family: Tahoma;
+    background-color: crimson;
+    margin: auto;
+
+}
+
+h2
+{
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 7px;
+}
+
+.Baner
+{
+    color: white;
+    text-align: center;
+    height: 370px;
+
+}
+
+.mecz
+{
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 100%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+    
+}
+
+.mecz:hover
+{
+    border: 1px solid white;
+}
+
+.gl
+{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    clear: both;
+
+}
+
+.lewy
+{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+    float: left;
+
+}
+
+.prawy
+{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: left;
+
+}
+
+.roz
+{
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 100%;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
